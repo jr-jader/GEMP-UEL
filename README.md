@@ -1,4 +1,4 @@
-# GEMP-UEL:
+# GEMP-UEL
 
 Bem-vindo ao repositório do Grupo de Estudos para Maratona de Programação da Universidade Estadual de Londrina (GEMP-UEL). Neste repositório, você encontrará materiais, exemplos de códigos e recursos para aprimorar seus conhecimentos em maratona de programação.
 
