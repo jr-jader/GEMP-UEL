@@ -9,9 +9,9 @@ Bem-vindo ao repositório do Grupo de Estudos para Maratona de Programação da 
 
 ## Tecnologias Utilizadas
 
-- Linguagens de Programação: C++;
+- Linguagem de Programação: C++;
 
-## Contribuidores
+## Contribuidor
 
 - Jader Jr - Aluno de Ciências da Computação na UEL, entusiasta por competições de programação e apaixonado por complicar a própria vida.
 
